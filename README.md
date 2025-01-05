@@ -1,6 +1,6 @@
 ANCILLARY LICENSE
 
-Copyright (c) 2024 Ancillary, Inc.
+Copyright (c) 2025 Ancillary, Inc.
 
 This Ancillary License grants the open-source community the perpetual right to freely use, modify, and repurpose any application, system, or service(s) herein, with the exemption of any commercial exploitation without prior written agreement.
 
